@@ -1,4 +1,4 @@
-public enum Restriciton {
+public enum Restriction {
     MaleOnly,
     FemalOnly,
     None
