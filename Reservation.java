@@ -69,4 +69,7 @@ public class Reservation {
     public String getReason() {
         return reason;
     }
+    public void setReason(String reason) {
+        this.reason = reason;
+    }
 }
