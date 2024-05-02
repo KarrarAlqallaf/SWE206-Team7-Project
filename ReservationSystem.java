@@ -1,4 +1,4 @@
-public class main_System {
+public class ReservationSystem {
     public static void main(String[] args) {
 
     }
